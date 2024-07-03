@@ -1,0 +1,60 @@
+{
+  "shortDescription": "Test your knowledge of TOKEN $DEGEN.",
+  "questions": [
+    {
+      "question": "What is $DEGEN?",
+      "answers": ["Token", "Game", "Book"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who created $DEGEN?",
+      "answers": ["Community", "Bank", "Corp"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is $DEGEN used for?",
+      "answers": ["Trading", "Gaming", "Shopping"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What blockchain is $DEGEN on?",
+      "answers": ["BASE", "Bitcoin", "Solana"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What does 'DEGEN' stand for?",
+      "answers": ["Degenerate", "Design", "Development"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is staking?",
+      "answers": ["Holding", "Selling", "Mining"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a DApp?",
+      "answers": ["App", "Coin", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a DAO?",
+      "answers": ["Org", "Coin", "Game"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is DeFi?",
+      "answers": ["Finance", "Gaming", "Tech"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where can you trade $DEGEN?",
+      "answers": ["DEX", "Bank", "Store"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Have you followed @watchcoin?",
+      "answers": ["Yes", "No", "Soon"],
+      "correctAnswerIndex": 2
+    }
+  ]
+}
