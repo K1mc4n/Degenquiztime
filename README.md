@@ -1,5 +1,5 @@
-degen quiz and get $Degen
+Degen Quiz and get $Degen
+Earn $DEGEN With Complete Task on Frames
+GET 70% reff Rewards 
 
-FOLLOW ACCOUNT : https://warpcast.com/watchcoin
-
-this time for pump 
+More Information (@Watchcoin) 
