@@ -1,5 +1,7 @@
 Degen Quiz and get $Degen
-Earn $DEGEN With Complete Task on Frames
-GET 70% reff Rewards 
-get random $DEGEN and $ETH
+
+-Earn $DEGEN With Complete Task on Frames
+-GET 70% reff Rewards 
+-get random $DEGEN and $ETH
+
 More Information (@Watchcoin) 
