@@ -1,6 +1,6 @@
 import { Button, Frog } from 'frog'
 import { devtools } from 'frog/dev'
-import dappykit from '@dappykit/sdk'
+import dappykit from '@watchcoin'
 import { serveStatic } from 'frog/serve-static'
 import { configureApp } from './utils/frame.js'
 import { BORDER_FAIL, BORDER_SIMPLE, BORDER_SUCCESS, Box, Heading, Text, vars, VStack } from './utils/style.js'
@@ -8,7 +8,7 @@ import { handle } from 'frog/vercel'
 import quizData from '../quiz.json' assert { type: 'json' }
 import { Quiz } from './quiz/index.js'
 import { kvGetDelegatedAddress, kvPutMnemonic } from './utils/kv.js'
-import { dappySaveData } from './utils/dappykit.js'
+import { dappySaveData } 
 
 const { ViemUtils, Utils } = dappykit
 const { generateMnemonic, privateKeyToAccount, english, mnemonicToAccount } = ViemUtils
