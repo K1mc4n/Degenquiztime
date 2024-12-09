@@ -1,6 +1,6 @@
 # GPT Prompt
 
-Come up with entertaining quiz content for topic: **[DEGEN QUIZ FOR WARPCAST USER]**.
+Come up with entertaining quiz content for topic: **[DEGEN QUIZ FOR WARPCAST]**.
 
 It is highly important to follow these rules during quiz creation:
 - No more than 60 symbols for the description.
