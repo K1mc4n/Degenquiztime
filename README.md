@@ -1,7 +1,5 @@
 # Degen Quiz Time
 
-Welcome to **Degen Quiz Time**! This is an interactive, fun quiz game where users can test their knowledge on a variety of topics. Challenge your friends or compete with players worldwide in this fast-paced quiz game designed for all levels. Whether you're a beginner or a quiz expert, Degen Quiz Time offers something for everyone.
-
 ## Features
 
 - **Multiple Quiz Categories**: Choose from different topics, including general knowledge, history, sports, entertainment, and more.
