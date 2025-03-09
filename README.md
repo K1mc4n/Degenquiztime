@@ -53,8 +53,7 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan Degen Quiz Warpca
    python app.py
    ```
 
-5. **Akses aplikasi**:
-   Akses aplikasi melalui browser di `http://localhost:3000` atau sesuai dengan konfigurasi yang Anda tentukan.
+
 
 ## Cara Bermain
 
