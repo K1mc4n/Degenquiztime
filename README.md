@@ -1,4 +1,4 @@
-**DegenQuizTime** 
+
 
 is a fun and interactive quiz game designed to test your knowledge and challenge your skills in a variety of topics. Built with modern web technologies, this game allows players to answer questions from multiple categories and compete for the highest score.
 
